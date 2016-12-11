@@ -1,0 +1,22 @@
+{
+  "name": "letter-frequency",
+  "version": "1.0.0",
+  "description": "Count letter frequency of a text",
+  "license": "MIT",
+  "repository": "ziyaddin/letter-frequency",
+  "author": {
+    "name": "Ziyaddin Sadigov",
+    "email": "ziyaddinsadigov@gmail.com",
+    "url": "ziyaddin.github.io"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "letter",
+    "frequency",
+    "string",
+    "text",
+    "count"
+  ]
+}
