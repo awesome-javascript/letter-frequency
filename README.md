@@ -58,8 +58,8 @@ Input string given by the user.
 #### sorting
 
 Type: `string`<br>
-Default: `name`
-Option: `name`, `value`
+Default: `name`<br>
+Options: `name`, `value`
 
 Sorting method of letters.
 
